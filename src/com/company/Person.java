@@ -18,6 +18,10 @@ public class Person {
         return lastName;
     }
     
+    public String getAddress() {
+        return "Madero 999";
+    }
+    
     @Override
     public String toString() {
         return name;
