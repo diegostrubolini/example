@@ -1,6 +1,6 @@
 {
   "name": "pce-example-app",
-  "version": "0.0.1-valkyr",
+  "version": "0.0.2-valkyr",
   "description": "",
   "main": "index.js",
   "scripts": {
